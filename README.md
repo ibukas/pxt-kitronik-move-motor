@@ -1,3 +1,6 @@
+# このふぉーくのこと
+やさしい　にほんご　で　ひょうじ　させるため　のもの　です
+
 # pxt-kitronik-move-motor
 
 Custom blocks for the :MOVE Motor for BBC micro:bit (www.kitronik.co.uk/5683).
