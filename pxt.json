@@ -45,7 +45,7 @@
         "_locales/es/RadioControlTx.md",
 
         "_locales/ja/pxt-kitronik-move-motor-jsodc-strings.json",
-        "_locales/ja/pxt-kitronik-move-motor-strings.json",
+        "_locales/ja/pxt-kitronik-move-motor-strings.json"
     ],
     "testFiles": [
         "test.ts"
